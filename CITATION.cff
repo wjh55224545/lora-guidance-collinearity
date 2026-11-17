@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the paper."
+title: "Collinearity Between the LoRA Weight Scale and the Guidance Strength"
+authors:
+  - family-names: Wang
+    given-names: Jianhao
+    orcid: "https://orcid.org/0009-0006-9764-8496"
+  - family-names: Liu
+    given-names: Shouqiang
+    orcid: "https://orcid.org/0000-0002-2795-0685"
+type: software
+license: MIT

@@ -1,0 +1,7 @@
+route,pclass,kappa
+geff_const,object,0.16091793125743556
+geff_const,person,0.2125533615591109
+geff_const,style,0.15579088317680703
+geff_const,all,0.17711648800874877
+ws_equal,all,1.0
+fixed_s,all,0.0

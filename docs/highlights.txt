@@ -1,0 +1,7 @@
+Highlights
+
+- LoRA weight w and CFG strength s are not independent free parameters
+- Effective guidance is s(1+wρ)+wρ∅, an identity from CFG plus LoRA
+- Measured κ: mean 0.211 (91 fits); 0.043 for w≤0.8, 0.943 for w≥1.2
+- Constant compensation beats the equal-w·s rule 4.2 times above wρ=0.15
+- Zero-cost analytic calibration, not a pixel optimum; κ transfers to SDXL

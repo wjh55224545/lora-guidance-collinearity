@@ -1,0 +1,3 @@
+tag,prompt_id,pclass,prompt,seed,w,s,clip_t,clip_i_ref,clip_i_base,pix_l2,gen_s
+unet_only,obj00,object,a red ceramic teapot on a wooden table,11,0.0,7.5,0.30703139305114746,0.9963784217834473,1.0,4.043553352355957,3.216
+unet_only,obj00,object,a red ceramic teapot on a wooden table,11,1.0,7.5,0.30697354674339294,1.0,0.9963784217834473,0.0,3.207

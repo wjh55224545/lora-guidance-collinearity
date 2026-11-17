@@ -1,0 +1,4 @@
+rule,med_ratio,mean_ratio,p90_ratio,worse_frac
+const_g,1.0,1.141,1.416,0.323
+equal_ws,1.669,1.842,2.884,0.738
+no_comp,1.023,1.2,1.609,0.396

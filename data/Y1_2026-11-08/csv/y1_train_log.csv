@@ -1,0 +1,3 @@
+concept,name,steps,rank,lr,n_images,final_loss,path,bytes,max_pix_base,min_pix_base
+A,lora_A,1000,8,0.0002,24,0.11574701280333102,E:\研究\models\lora\trained\lora_A.safetensors,6414992,21.319021224975586,7.557187080383301
+B,lora_B,1000,8,0.0002,24,0.11037388337310404,E:\研究\models\lora\trained\lora_B.safetensors,6414992,25.546588897705078,17.300058364868164

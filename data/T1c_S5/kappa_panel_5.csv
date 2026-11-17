@@ -1,0 +1,7 @@
+adapter,note,n_prompts,n_fits,kappa,iqr_lo,iqr_hi,kmin,kmax,n_pos,n_neg,kappa_lo,kappa_hi,strength_w1,status,source
+teapot 800,subject,4,4,0.105150,0.056189,0.146780,-0.003775,0.184752,3,1,0.181565,0.408050,13.233434,ok,exp\p2\out_b1_grid_S\images.csv
+teapot 1600,subject,4,4,0.079356,-0.020084,0.161369,-0.099810,0.188815,3,1,0.012340,0.812664,15.675616,ok,exp\p2\out_b1_grid_S2\images.csv
+chair 800,subject,4,4,0.203750,0.169745,0.242371,0.120535,0.305428,4,0,0.039326,0.184989,13.356493,ok,results\论文二_LoRA共线\T1_2026-11-14\images_S3.csv
+vase 800,subject,4,4,0.045143,0.025008,0.113944,0.018781,0.266168,4,0,-0.046897,0.393098,10.329523,ok,results\论文二_LoRA共线\T1b_S4\images_S4.csv
+boot 800,subject,4,4,0.047838,-0.013011,0.109684,-0.067619,0.167286,3,1,-0.000000,0.601207,12.676123,ok,exp\p2\out_b1_grid_S5\images.csv
+teapot 800 (SDXL),SDXL,4,4,0.112991,0.068894,0.140375,0.000000,0.159130,4,0,0.017046,0.601207,7.119588,ok,exp\p2\out_xl_xl_S1\images.csv

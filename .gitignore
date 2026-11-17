@@ -1,0 +1,12 @@
+# model weights and generated images never belong here
+models/
+*.safetensors
+*.ckpt
+*.pt
+*.bin
+out_*/
+*.png
+!figures/*.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

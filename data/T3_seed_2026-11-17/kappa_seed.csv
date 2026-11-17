@@ -1,0 +1,4 @@
+adapter,n_prompts,n_fits,kappa,kmin,kmax,iqr_lo,iqr_hi,n_pos,n_neg,status,source
+S  (seed unrecorded),4,4,0.105150,-0.003775,0.184752,0.056189,0.146780,3,1,ok,exp\p2\out_b1_grid_S\images.csv
+S6 (seed 2024),4,4,0.175598,0.019563,0.199114,0.124819,0.193247,4,0,ok,exp\p2\out_t3_S6\images.csv
+S7 (seed 2025),4,4,-0.000910,-0.058145,0.186148,-0.044049,0.074685,2,2,ok,exp\p2\out_t3_S7\images.csv
