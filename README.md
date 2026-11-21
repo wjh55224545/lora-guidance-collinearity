@@ -1,4 +1,4 @@
-# lora-cfg-collinearity
+# lora-guidance-collinearity
 
 Reproducibility package for **"Collinearity Between the LoRA Weight Scale and the
 Guidance Strength"** (under review, Neurocomputing).
